@@ -1,0 +1,13 @@
+package com.chimu.chimuelo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ChimueloApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ChimueloApplication.class, args);
+	}
+
+}
